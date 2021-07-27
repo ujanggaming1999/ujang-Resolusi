@@ -1,0 +1,5 @@
+RENCANA
+- HTML
+  * Struktur HTML
+- CSS
+- Javascipt
